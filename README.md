@@ -4,7 +4,7 @@ The code is written in python.[Source Code](https://github.com/SeemaBeniwl/My_fi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Complete Discription of the snake game tutorial
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
