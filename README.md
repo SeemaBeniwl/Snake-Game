@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Snake-Game Project
 
-You can use the [editor on GitHub](https://github.com/SeemaBeniwl/Snake-Game/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The code is written in python.[Source Code](https://github.com/SeemaBeniwl/My_first_python_game_snake/blob/master/First_Snake_Game/SNAKE%20GAME.ipynb) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
